@@ -15,9 +15,6 @@ import android.widget.Toast;
 
 public class registration extends AppCompatActivity {
 
-    //Declaration SqliteHelper
-    SqliteHelper sqliteHelper;
-
     EditText userName,userPassword,userMobileNo,userAddress;
     String uName,uPass,uMobNo,uAddress,uRole;
     TextView loginBtn;
