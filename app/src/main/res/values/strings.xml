@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tutor Locating</string>
+    <string name="register">Register</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="mobileNo_hint">Mobile No.</string>
+    <string name="address_hint">Address</string>
+    <string name="already_registered">Already registered?</string>
+    <string name="haveNoAccount">Have no account?</string>
+    <string name="registerBtn">Register Here</string>
+    <string name="login">Log In</string>
+    <string name="role">Role</string>
+    <string name="student">Student</string>
+    <string name="tutor">Tutor</string>
+    <string name="aboutUs">About Us</string>
+    <string name="aboutDescription">Call/Sms/Whatsapp: +92 308 3656611.\nEmail: farhanramzan@outlook.com\nWebsite: www.farhanramzan.com\nInstagram: fanithoughts.farhan</string>
+    <string name="credit">Designed By Muhammad Farhan</string>
+</resources>
